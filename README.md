@@ -1,10 +1,4 @@
-<h1 align="center">👋 Hello, I'm <a href="https://github.com/KejamHatan05">@KejamHatan05</a>!</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">👋 Hello, I'm @KejamHatan05!</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Always+learning+new+things;Let's+build+something+amazing!)](https://git.io/typing-svg)
 
