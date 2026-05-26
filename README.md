@@ -52,10 +52,14 @@ I'm a passionate developer who loves exploring new technologies and building cre
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KejamHatan05&show_icons=true&theme=prussian&hide_border=true" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KejamHatan05&layout=compact&theme=prussian&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KejamHatan05&show_icons=true&theme=prussian&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KejamHatan05&layout=compact&theme=prussian&hide_border=true" />
 </p>
 
 <p align="center">
