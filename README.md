@@ -6,11 +6,12 @@
   </a>
 </p>
 
+
 <p align="center">
-  <img src="./assets/dapskuy.png" width="180" style="border-radius:50%;" />
+  <img src="./assets/dapskuy.png" width="200" style="border-radius: 50%;" />
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -52,63 +53,42 @@ I'm a passionate developer who loves exploring new technologies and building cre
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
+| 📊 Stats | 💭 Random Dev Quote |
+|---|---|
+|[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KejamHatan05&show_icons=true&theme=prussian)](https://github.com/KejamHatan05) | [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=prussian)](https://github.com/KejamHatan05) |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KejamHatan05&show_icons=true&theme=prussian&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KejamHatan05&layout=compact&theme=prussian&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KejamHatan05&theme=prussian&hide_border=true" />
-</p>
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=prussian)](https://github.com/KejamHatan05)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KejamHatan05&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=KejamHatan05&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/KejamHatan05)
 
 ---
 
 ## 🐍 My Contributions
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/KejamHatan05/KejamHatan05/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/KejamHatan05/KejamHatan05/output/snake.svg" />
-    <img alt="Snake animation"
-         src="https://raw.githubusercontent.com/KejamHatan05/KejamHatan05/output/snake.svg" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/KejamHatan05/KejamHatan05/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/KejamHatan05/KejamHatan05/output/snake.svg" />
+  <img alt="Snake animation" 
+       src="https://raw.githubusercontent.com/KejamHatan05/KejamHatan05/output/snake.svg" />
+</picture>
 
----
 
 ## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://www.instagram.com/jijir_or/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/KejamHatan05">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/KejamHatan05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jijir_or/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KejamHatan05)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KejamHatan05&label=Profile+Views&color=A277FF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=A277FF&style=flat" alt="profile views" />
 </p>
 
-<p align="center"><i>"BAAAAAAKAAAAAAAAA 🤪"</i></p>
+<p align="center"><i>"BAAAAAAKAAAAAAAAA🤪."</i></p>
