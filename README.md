@@ -55,7 +55,7 @@ I'm a passionate developer who loves exploring new technologies and building cre
 
 | 📊 Stats | 💭 Random Dev Quote |
 |---|---|
-| [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=prussian)](https://github.com/KejamHatan05) | [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=prussian)](https://github.com/KejamHatan05) |
+|[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KejamHatan05&show_icons=true&theme=prussian)](https://github.com/KejamHatan05) | [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=prussian)](https://github.com/KejamHatan05) |
 
 [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=prussian)](https://github.com/KejamHatan05)
 
