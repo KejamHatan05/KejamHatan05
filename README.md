@@ -46,15 +46,15 @@ I'm a passionate developer who loves exploring new technologies and building cre
 
 | 📊 Stats | 💭 Random Dev Quote |
 |---|---|
-| [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=prussian)](https://github.com/YOUR_USERNAME) | [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=prussian)](https://github.com/YOUR_USERNAME) |
+| [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=prussian)](https://github.com/KejamHatan05) | [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=prussian)](https://github.com/KejamHatan05) |
 
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=prussian)](https://github.com/YOUR_USERNAME)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=prussian)](https://github.com/KejamHatan05)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/YOUR_USERNAME)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=6)](https://github.com/KejamHatan05)
 
 ---
 
@@ -65,9 +65,9 @@ I'm a passionate developer who loves exploring new technologies and building cre
 
 ## 🔗 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jijir_or/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KejamHatan05)
 
 ---
 
@@ -75,4 +75,4 @@ I'm a passionate developer who loves exploring new technologies and building cre
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=A277FF&style=flat" alt="profile views" />
 </p>
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i></p>
+<p align="center"><i>"BAAAAAAKAAAAAAAAA🤪." – Cory House</i></p>
