@@ -6,6 +6,10 @@
   </a>
 </p>
 
+
+<p align="center">
+  <img src="./assets/dapskuy.png" width="200" style="border-radius: 50%;" />
+</p>
 ---
 
 ## 🚀 About Me
