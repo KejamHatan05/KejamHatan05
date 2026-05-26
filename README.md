@@ -69,7 +69,14 @@ I'm a passionate developer who loves exploring new technologies and building cre
 
 ## 🐍 My Contributions
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/KejamHatan05/KejamHatan05/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/KejamHatan05/KejamHatan05/output/snake.svg" />
+  <img alt="Snake animation" 
+       src="https://raw.githubusercontent.com/KejamHatan05/KejamHatan05/output/snake.svg" />
+</picture>
 
 
 ## 🔗 Connect With Me
