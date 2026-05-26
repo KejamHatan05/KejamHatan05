@@ -75,4 +75,4 @@ I'm a passionate developer who loves exploring new technologies and building cre
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=A277FF&style=flat" alt="profile views" />
 </p>
 
-<p align="center"><i>"BAAAAAAKAAAAAAAAA🤪." – Cory House</i></p>
+<p align="center"><i>"BAAAAAAKAAAAAAAAA🤪."</i></p>
