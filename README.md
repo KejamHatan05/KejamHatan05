@@ -58,14 +58,6 @@ I'm a passionate developer who loves exploring new technologies and building cre
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KejamHatan05&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🐍 My Contributions
 
 <p align="center">
