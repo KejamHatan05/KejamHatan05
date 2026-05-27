@@ -52,6 +52,7 @@ I'm a passionate developer who loves exploring new technologies and building cre
 
 ## 📈 GitHub Stats
 
+
 | 📊 Github Stats | 💬 Random Dev Quote |
 |:---:|:---:|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KejamHatan05&show_icons=true&theme=prussian&hide_border=true) | ![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark) |
@@ -63,7 +64,6 @@ I'm a passionate developer who loves exploring new technologies and building cre
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KejamHatan05&theme=prussian&hide_border=true" />
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
