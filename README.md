@@ -52,12 +52,10 @@ I'm a passionate developer who loves exploring new technologies and building cre
 
 ## 📈 GitHub Stats
 
-
-| 📊 Github Stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KejamHatan05&theme=prussian&hide_border=true" />
 </p>
+
 ---
 
 ## 🏆 GitHub Trophies
