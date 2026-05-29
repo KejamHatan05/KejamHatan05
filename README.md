@@ -16,7 +16,7 @@
 
 I'm a passionate developer who loves exploring new technologies and building creative projects.
 
-- 🎯 Focused on **Web Development & AI**
+- 🎯 Focused on **Web Development**
 - 🧠 Always learning and improving my skills
 - 💡 Enjoy building interactive and visual applications
 - 🐍 Love experimenting with Python & Computer Vision
@@ -33,14 +33,6 @@ I'm a passionate developer who loves exploring new technologies and building cre
 
 ### ⚙️ Programming & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🤖 AI Tools I Use
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ### 🧰 Tools & Environments
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
