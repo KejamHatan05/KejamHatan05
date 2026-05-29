@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/dapskuy.png" width="180" style="border-radius:50%;" />
+  <img src="./assets/me.JPG" width="180" style="border-radius:50%;" />
 </p>
 
 ---
